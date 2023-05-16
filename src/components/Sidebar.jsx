@@ -11,7 +11,7 @@ const Sidebar = () => {
   return (
     // wrap
     <div
-      className="h-[100vh] flex flex-col w-56 bg-white py-14"
+      className="h-full flex flex-col w-56 bg-white py-14"
       style={{
         fontFamily: "Poppins",
       }}
