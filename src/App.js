@@ -1,10 +1,12 @@
+import Sidebar from "./components/Sidebar";
 
 
 
 function App() {
   return (
-    <div className="App">
-      <h1>he;;p</h1>
+    <div className="h-full w-full flex bg-primary p-14">
+
+      <Sidebar />
     </div>
   );
 }
